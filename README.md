@@ -1,2 +1,3 @@
 # Web-Development-projects
-Hello, my name is Shivam Singh Mer and I am a student of Bachelors of Computer Applications(BCA) in Dr. Virendra Swarup Institute of Computer Studies.
+Here I have created the frontend of the netflix website.
+Run the code in the browser and suggest the changes that I should apply in it.
